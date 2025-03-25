@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Cathe\OneDrive\Desktop\C++Test\CandCppTestingProject\Main.cpp(7,19): warning C4307: '+': 부호 있는 정수 계열 상수 오버플로입니다.
+  CandCppTestingProject.vcxproj -> C:\Users\Cathe\OneDrive\Desktop\C++Test\CandCppTestingProject\x64\Debug\CandCppTestingProject.exe

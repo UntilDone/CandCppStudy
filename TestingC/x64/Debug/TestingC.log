@@ -1,0 +1,7 @@
+﻿  main.c
+  Map.c
+  코드를 생성하고 있습니다...
+C:\Users\Cathe\OneDrive\Desktop\C++Test\TestingC\main.c(10,15): warning C4133: '함수': 'Map *'과(와) 'Map *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Cathe\OneDrive\Desktop\C++Test\TestingC\main.c(11,16): warning C4133: '함수': 'Map *'과(와) 'Map *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Cathe\OneDrive\Desktop\C++Test\TestingC\main.c(5,6): warning C4113: 'void (__cdecl *)(Map *)'은(는) 'void (__cdecl *)(Map *)'과(와) 매개 변수 목록이 다릅니다.
+  TestingC.vcxproj -> C:\Users\Cathe\OneDrive\Desktop\C++Test\CandCppTestingProject\x64\Debug\TestingC.exe
